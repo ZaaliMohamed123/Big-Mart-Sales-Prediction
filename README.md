@@ -2,6 +2,8 @@
 
 This project aims to predict sales for Big Mart outlets using machine learning models.
 
+**Link to dataset**: https://www.kaggle.com/datasets/shivan118/big-mart-sales-prediction-datasets?select=train.csv
+
 The process includes the following key steps:
 
 1. Data Collection: The dataset is imported, containing information on various items and sales.
